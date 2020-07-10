@@ -1,11 +1,5 @@
-# Self-Driving-Cars
-Creating Autonomous cars and simulations
+# Polynomial Regression with Deep Learning:
+- Creating a non-linear dataset and plotting with matplotlib
+- Fitting Polynomial Curve with a non-linear dataset using Deep Neural Networks
 
-# Topics:
-- Lane-Line Detection
-- Deep Learning
-- Self-Driving-Autonomous Cars
-
-# Lane-Line Detection:
-### Animated GIF for video Output
-![gif](Lane-Line-Detection/lane_lines.gif)
+![poly](img/poly_fitting.png)
