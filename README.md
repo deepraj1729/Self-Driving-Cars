@@ -13,10 +13,10 @@ Creating `Autonomous cars` and simulations from basics of `Deep Learning` and `C
 
 # Traffic Signs Recognition System:
 ### Original Images:
-![traffic1](Traffic-Sign-Recognintion/test_images/testing_image.png)
+![traffic1](Traffic_Sign_Recognition/test_images/testing_image.png)
 
 ### Preprocessed Images:
-![traffic2](Traffic-Sign-Recognintion/test_images/preprocessed_img.png)
+![traffic2](Traffic_Sign_Recognition/test_images/preprocessed_img.png)
 
 # Polynomial Regression with Deep Learning:
 ![poly](Polynomial%20Regression/img/poly_fitting.png)
