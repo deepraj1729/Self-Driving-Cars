@@ -1,11 +1,10 @@
-# Self-Driving-Cars
-Creating Autonomous cars and simulations
+# Traffic Signs Recognition System:
+- Training model with simple model (Without data augmentation) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepraj1729/Self-Driving-Cars/blob/master/Behavioural%20Cloning/Training_car/Behavioural%20Cloning.ipynb)
+- Training model with complex model (With Data Augmentation for handling data imbalance and variety)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepraj1729/Self-Driving-Cars/blob/master/Behavioural%20Cloning/Training_car/Behavioural%20Cloning.ipynb)
 
-# Topics:
-- Lane-Line Detection
-- Deep Learning
-- Self-Driving-Autonomous Cars
+### Original Images:
+![traffic1](test_images/testing_image.png)
 
-# Lane-Line Detection:
-### Animated GIF for video Output
-![gif](Lane-Line-Detection/lane_lines.gif)
+### Preprocessed Images:
+![traffic2](test_images/preprocessed_img.png)
