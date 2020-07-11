@@ -28,7 +28,7 @@ Creating `Autonomous cars` and simulations from basics of `Deep Learning` and `C
 
 ## References:
 - [The Complete Self-Driving Car Course- Applied Deep Learning (Udemy)](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course)
-- [Tensrflow.org](https://www.tensorflow.org)
+- [Tensorflow.org](https://www.tensorflow.org)
 - [Stackoverflow](https://www.stackoverflow.com)
 - [StackExchange](https://stackexchange.com)
 - [Github Forums](https://github.com/topics/forums)
