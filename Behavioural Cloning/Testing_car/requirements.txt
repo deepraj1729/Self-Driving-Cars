@@ -2,7 +2,7 @@ Pillow>=6.2.2
 python-socketio==4.5.1
 numpy==1.17.4
 Flask==1.1.1
-opencv-python==3.4.2.16
+opencv-python==3.4.7.28
 eventlet==0.31.0
 tensorflow==2.4.0
 Keras==2.3.1
